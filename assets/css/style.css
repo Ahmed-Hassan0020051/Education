@@ -1,0 +1,25 @@
+.card-wrapper{
+    display: flex;
+}
+.card-wrapper .card{
+    width: 25%;
+}
+.card {
+    
+     border: none; 
+     border-radius: none; 
+}
+.card-wrapper .card img{
+    width: 100%;
+}
+.card-body {
+    
+    padding:0;
+    
+}
+.hero-wrapper-2 img{
+    width: 100%;
+}
+.hero-wrapper-3 img{
+    width: 100%;
+}
